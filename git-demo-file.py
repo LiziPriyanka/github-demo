@@ -4,6 +4,8 @@ c = a*b
 print("The Product of {} {} numbers are {}:".format(a,b,c))
 
 r = 3
-g = 3
+g = 2
 f = r|g
 print(f)
+g = r&g
+print(g)

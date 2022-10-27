@@ -12,3 +12,5 @@ def test_2():
     l = l1+l2
     return l
 print(test_2())
+str = "Lizi Priyanka"
+print(len(str))
